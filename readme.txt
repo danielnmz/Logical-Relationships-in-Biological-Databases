@@ -1,4 +1,4 @@
-*** Software Package for computing logical relationships in genomic networks ***
+*** Software Package for Computing Logical Relationships in Genomic Networks ***
 
 1. Installation
 	1.1 Copy and paste the folder "LR-2.0" to a desirable location on your computer.
