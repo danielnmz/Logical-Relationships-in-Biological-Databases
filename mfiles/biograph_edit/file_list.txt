@@ -1,0 +1,4 @@
+node_add.m - add node to existion graph
+node_del.m - delete node from existing graph
+edge_add.m - add edge to existion graph
+edge_del.m - delete edge from existing graph

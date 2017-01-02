@@ -1,0 +1,29 @@
+<ProcessList>
+Process
+Input  n_1 n_2
+Output n_3
+
+Process
+Input  n_1
+Activator n_4
+Output n_5
+
+Process
+Input  n_6
+Activator n_3
+Output n_7
+
+Process
+Input  n_6 n_8
+Output n_9
+
+Process
+Input n_10
+Inhibitor n_5
+Output n_11
+
+Process
+Input n_7
+Output n_9
+
+<End>
